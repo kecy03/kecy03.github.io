@@ -15,7 +15,7 @@ body {
   font-family: $global-font-family;
   font-variant-numeric: lining-nums;
   font-feature-settings: "lnum" 1;
-  line-height: 1.5;
+  line-height: 1.6;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
