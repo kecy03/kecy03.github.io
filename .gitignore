@@ -1,3 +1,10 @@
 _site/
 push.sh
 .DS_Store
+.bundle/
+.sass-cache/
+vendor/
+jekyll-server.log
+jekyll-server.err
+static-server*.log
+static-server*.err
