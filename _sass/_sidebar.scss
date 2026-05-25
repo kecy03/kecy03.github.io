@@ -130,10 +130,10 @@
 
 .sidebar .author__name {
   @include breakpoint($medium) {
-    font-size: 22.4px;
+    font-size: 20.4px;
   }
   font-family: $sans-serif;
-  font-size: 22.4px;
+  font-size: 20.4px;
 }
 
 .author__bio {

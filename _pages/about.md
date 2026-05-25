@@ -34,7 +34,7 @@ TBD
 
 # 🏆 Honors and Awards
 
-- *2026* Outstanding Graduate Student (Rank: *1st/169*, GPA: *4.34/5.00*), Anhui Provincial Department of Education.
+- *2026* Outstanding Graduate Student (Rank: 1st/169, GPA: 4.34/5.00), Anhui Provincial Department of Education.
 - *2025* National Scholarship for Undergraduate Students, Ministry of Education of the People's Republic of China.
 
 
