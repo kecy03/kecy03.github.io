@@ -13,6 +13,8 @@ body {
   padding-bottom: 0em;
   color: $text-color;
   font-family: $global-font-family;
+  font-variant-numeric: lining-nums;
+  font-feature-settings: "lnum" 1;
   line-height: 1.5;
 
   &.overflow--hidden {
