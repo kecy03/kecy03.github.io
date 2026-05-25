@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenye Ke (柯晨烨)"
+title                    : "Chenye Ke"
 description              : "Hard work brings more luck!"
 repository               : "kecy03/kecy03.github.io"
 google_scholar_stats_use_cdn : true
