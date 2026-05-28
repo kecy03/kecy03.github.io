@@ -34,7 +34,7 @@ TBD
 
 # 🏆 Honors and Awards
 
-- *2026* Outstanding Undergraduate Student of Anhui Province (Rank: 1/169, GPA: 4.34/5.00)
+- *2026* Outstanding Undergraduate Graduate of Anhui Province (Rank: 1/169, GPA: 4.34/5.00)
 - *2025* National Scholarship for Undergraduate Students
 
 
