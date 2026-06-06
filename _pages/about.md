@@ -27,6 +27,7 @@ My research focuses on LLM evaluation, with broader interests in machine learnin
 # 📝 Publications 
 TBD
 <span class='anchor' id='academic-services'></span>
+
 # 📚 Academic Services
 TBD
 
@@ -34,11 +35,11 @@ TBD
 - *2026* Outstanding Graduate of Anhui Province (Undergraduate, Rank: 1/169, GPA: 4.34/5.00)
 - *2025* National Scholarship for Undergraduate Students
 <span class='anchor' id='educations'></span>
+
 # 🎓 Educations
 - *2022~2026*, Undergraduate Student, Anhui University.
 
-<!-- # 💬 Invited Talks
-TBD -->
+
 
 # 💻 Internships
 TBD
