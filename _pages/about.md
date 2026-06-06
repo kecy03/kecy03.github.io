@@ -34,7 +34,11 @@ TBD
 
 # 🏆 Honors and Awards
 
+<<<<<<< HEAD
 - *2026* Outstanding Graduate of Anhui Province (Undergraduate, Rank: 1/169, GPA: 4.34/5.00)
+=======
+- *2026* Outstanding Undergraduate Graduate of Anhui Province (Rank: 1/169, GPA: 4.34/5.00)
+>>>>>>> 70570679ef3d8be6621c72acf645dadfff0dc6c7
 - *2025* National Scholarship for Undergraduate Students
 
 
