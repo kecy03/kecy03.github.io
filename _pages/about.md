@@ -32,7 +32,7 @@ TBD
 TBD
 
 # 🏆 Honors and Awards
-- *2026* Outstanding Graduate of Anhui Province (Undergraduate)
+- *2026* Outstanding Graduate of Anhui Province (Undergraduate, Rank: 1/169)
 - *2025* National Scholarship for Undergraduate Students
 <span class='anchor' id='educations'></span>
 

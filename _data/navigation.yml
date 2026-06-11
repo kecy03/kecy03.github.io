@@ -18,8 +18,8 @@ main:
   # - title: "News"
   #   url: "/#-news"
 
-  - title: "Educations"
-    url: "#educations"
+  # - title: "Educations"
+  #   url: "#educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
